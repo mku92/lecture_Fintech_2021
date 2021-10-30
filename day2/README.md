@@ -14,6 +14,7 @@
 
 오후
 
+1. [시장금리,COFIX,수출입물가 크롤링](금융데이터2-02시장금리_COFIX_수출입물가.ipynb)
 1. [KRX OHLC 데이터 크롤링과 구축](금융데이터1-10krx_marcap_process.ipynb)
 1. [주가상관분석 이용(Yahoofinance)](투자01-상관분석Yahoofinance.ipynb)
 2. [FinanceData-Reader 사용](FDR01-users-guide0.ipynb)
